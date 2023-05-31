@@ -1,0 +1,1 @@
+export const reactlogo = require('./icon.png')
